@@ -8,7 +8,7 @@ Python
 Cypress
 Salesforce
 Dynamics 365
-![image](https://github.com/jmadhavi2708/jmadhavi2708/assets/36148193/2fabd8a0-61ab-429d-9425-277d01a0b634)
+
 
 
 
