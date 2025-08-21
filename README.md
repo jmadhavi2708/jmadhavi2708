@@ -4,10 +4,11 @@ Iam a  Dynamic Senior QA Tester, with expertise in delivering technically comple
 
 My Top Skills
 Playwright
-Python
+Selenium
 Cypress
 Salesforce
 Dynamics 365
+AI Testing
 
 
 
